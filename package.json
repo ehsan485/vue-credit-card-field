@@ -24,7 +24,7 @@
     "bootstrap": "^4.3.1",
     "card-validator": "^6.2.0",
     "credit-card-type": "^8.2.0",
-    "payment": "git+https://github.com/ehsan485/payment.git",
+    "payment": "git+https://github.com/ehsan485/payment.git#2f893f33b96d9b47cae21c5f03403443b6e913ee",
     "vue": "^2.6.10",
     "vue-interface": "^0.4.12"
   },
